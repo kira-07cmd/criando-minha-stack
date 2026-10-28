@@ -1,3 +1,4 @@
-const linguagens =["JavaScript", "Typescript", "React", "bun"]; 
-console.log ("Linguagens que vou dominar:");
-console.log(linguagens);
+const stack = ["JavaScript", "TypeScript", "React", "Bun"];
+
+console.log("Stack que vou dominar:");
+console.log(stack);
